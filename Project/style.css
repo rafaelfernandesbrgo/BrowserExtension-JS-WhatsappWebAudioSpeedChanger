@@ -1,0 +1,18 @@
+
+
+.okButton{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    padding-left: 10px;
+
+}
+
+
+.SpeedValue{
+    width: 0.5cm;
+    border-color: rgb(44, 23, 23);
+    background-color: lightgray;
+}
