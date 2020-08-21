@@ -12,7 +12,7 @@ The initial and a little different idea was developed on the channel: https://ww
 ***
 **pt-br**
 
-Essa é uma extensão do google chrome criada em js, css e html.
+Essa é uma extensão para navegadores criada em js, css e html.
 
 Você escolhe a velocidade digitando no input, depois clica em "ok" para ter os audios da conversa corrente alteradas.
 
