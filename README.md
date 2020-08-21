@@ -1,7 +1,7 @@
-# WhatsappWeb Audio SpeedChanger
+# BrowserExtension- JS - WhatsappWebAudioSpeedChanger
  ***
 
-This is an extension of google chrome created in js, css and html.
+This is a browser extension created in js, css and html.
 
 You can select the speed by typing, then click "ok" to have the audios of the current conversation changed.
 
